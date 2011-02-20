@@ -1,0 +1,17 @@
+$Id: CHANGELOG.txt,v 1.4 2010/11/26 10:24:28 trungonly Exp $
+
+Ubercart CCK Attribute 6.x-1.x, xxxx-xx-xx
+------------------------------------------
+
+Ubercart CCK Attribute 6.x-1.4, 2010-11-26
+------------------------------------------
+- Fixed bug #981332 by johnsolo: Grouped fields don't work.
+- Fixed bug #982056 by iub98: Error non array when checking out
+
+Ubercart CCK Attribute 6.x-1.3, 2010-11-18
+------------------------------------------
+- Fixed bug #974298 by TwoD: Nested forms break "Add to cart" button in IE.
+
+Ubercart CCK Attribute 6.x-0.1, 2010-09-26
+------------------------------------------
+- Initial release for Drupal 6.
